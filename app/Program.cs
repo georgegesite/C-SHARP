@@ -53,5 +53,6 @@ class Program
         Console.WriteLine("n = " + n);
 
         Console.WriteLine("Hello World");
+        Console.WriteLine("Hello World");
     }
 }
