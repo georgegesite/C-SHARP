@@ -20,7 +20,7 @@ namespace JokesAPp.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
-        public ApplicationDbContext()
+        public ApplicationDbContext()  
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
@@ -29,5 +29,7 @@ namespace JokesAPp.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<JokesAPp.Models.Joke> Jokes { get; set; }
     }
 }
