@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\C-SHARP\\app\\app.csproj": {}
+    "C:\\Development\\C-SHARP\\webapp\\LearningCSharp\\LearningCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Development\\C-SHARP\\app\\app.csproj": {
+    "C:\\Development\\C-SHARP\\webapp\\LearningCSharp\\LearningCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\C-SHARP\\app\\app.csproj",
-        "projectName": "app",
-        "projectPath": "C:\\Development\\C-SHARP\\app\\app.csproj",
+        "projectUniqueName": "C:\\Development\\C-SHARP\\webapp\\LearningCSharp\\LearningCSharp.csproj",
+        "projectName": "LearningCSharp",
+        "projectPath": "C:\\Development\\C-SHARP\\webapp\\LearningCSharp\\LearningCSharp.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\C-SHARP\\app\\obj\\",
+        "outputPath": "C:\\Development\\C-SHARP\\webapp\\LearningCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
