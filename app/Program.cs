@@ -12,5 +12,12 @@ class Program
         Console.WriteLine("Hello World");
         String name = "George";
         Console.WriteLine("Hello " + name);
+
+        int count = 0;
+        for (int i = 0; i < 10; i++)
+        {
+            Console.WriteLine(count);
+            count++;
+        }
     }
 }
