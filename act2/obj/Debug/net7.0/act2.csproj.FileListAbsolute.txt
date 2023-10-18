@@ -1,0 +1,14 @@
+C:\Development\C-SHARP\act2\bin\Debug\net7.0\act2.exe
+C:\Development\C-SHARP\act2\bin\Debug\net7.0\act2.deps.json
+C:\Development\C-SHARP\act2\bin\Debug\net7.0\act2.runtimeconfig.json
+C:\Development\C-SHARP\act2\bin\Debug\net7.0\act2.dll
+C:\Development\C-SHARP\act2\bin\Debug\net7.0\act2.pdb
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.AssemblyInfoInputs.cache
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.AssemblyInfo.cs
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.csproj.CoreCompileInputs.cache
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.dll
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\refint\act2.dll
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.pdb
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\act2.genruntimeconfig.cache
+C:\Development\C-SHARP\act2\obj\Debug\net7.0\ref\act2.dll
