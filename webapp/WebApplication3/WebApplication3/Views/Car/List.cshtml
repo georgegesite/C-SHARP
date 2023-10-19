@@ -1,0 +1,70 @@
+﻿@model IEnumerable<WebApplication3.Models.CarModel>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-warning">
+        @TempData["Message"]
+    </div>
+}
+
+<h1>List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    <a asp-action="List">Refresh</a>
+</p>
+
+@using (Html.BeginForm("Search", "Car", FormMethod.Get))
+{
+    <div>
+        <label for = "searchItem" >Search</label>
+        <input type="text" id="searchItem" name="searchItem" /> 
+        <input type="submit" value="search" />
+    </div>
+
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+ 
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Model)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {  item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { item.Id })
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
