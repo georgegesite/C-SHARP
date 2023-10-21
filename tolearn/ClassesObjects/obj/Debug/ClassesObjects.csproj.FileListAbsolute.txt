@@ -1,0 +1,7 @@
+C:\Development\C-SHARP\tolearn\ClassesObjects\bin\Debug\ClassesObjects.exe.config
+C:\Development\C-SHARP\tolearn\ClassesObjects\bin\Debug\ClassesObjects.exe
+C:\Development\C-SHARP\tolearn\ClassesObjects\bin\Debug\ClassesObjects.pdb
+C:\Development\C-SHARP\tolearn\ClassesObjects\obj\Debug\ClassesObjects.csproj.AssemblyReference.cache
+C:\Development\C-SHARP\tolearn\ClassesObjects\obj\Debug\ClassesObjects.csproj.CoreCompileInputs.cache
+C:\Development\C-SHARP\tolearn\ClassesObjects\obj\Debug\ClassesObjects.exe
+C:\Development\C-SHARP\tolearn\ClassesObjects\obj\Debug\ClassesObjects.pdb

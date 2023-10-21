@@ -1,0 +1,14 @@
+C:\Development\C-SHARP\tolearn\Methods\bin\Debug\net7.0\Methods.exe
+C:\Development\C-SHARP\tolearn\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Development\C-SHARP\tolearn\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Development\C-SHARP\tolearn\Methods\bin\Debug\net7.0\Methods.dll
+C:\Development\C-SHARP\tolearn\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.dll
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Development\C-SHARP\tolearn\Methods\obj\Debug\net7.0\ref\Methods.dll
