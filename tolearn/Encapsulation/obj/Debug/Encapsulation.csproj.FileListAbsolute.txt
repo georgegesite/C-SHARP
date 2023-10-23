@@ -1,0 +1,7 @@
+C:\Development\C-SHARP\tolearn\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Development\C-SHARP\tolearn\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Development\C-SHARP\tolearn\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Development\C-SHARP\tolearn\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Development\C-SHARP\tolearn\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Development\C-SHARP\tolearn\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Development\C-SHARP\tolearn\Encapsulation\obj\Debug\Encapsulation.pdb

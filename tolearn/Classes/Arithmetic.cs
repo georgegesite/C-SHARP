@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    static class Arithmetic
+    public static class Arithmetic
     {
         public static int Addition (int x, int y)
         {
