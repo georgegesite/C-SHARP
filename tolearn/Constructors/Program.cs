@@ -16,6 +16,7 @@ namespace Constructors
             Console.WriteLine(George.lastName);
             Console.WriteLine(George.age);
             Console.WriteLine(George.sex);
+            Console.WriteLine("Hello world");
 
             Console.ReadKey();
 

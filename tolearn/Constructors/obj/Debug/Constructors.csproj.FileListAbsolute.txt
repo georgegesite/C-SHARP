@@ -4,3 +4,4 @@ C:\Development\C-SHARP\tolearn\Constructors\bin\Debug\Constructors.pdb
 C:\Development\C-SHARP\tolearn\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
 C:\Development\C-SHARP\tolearn\Constructors\obj\Debug\Constructors.exe
 C:\Development\C-SHARP\tolearn\Constructors\obj\Debug\Constructors.pdb
+C:\Development\C-SHARP\tolearn\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
