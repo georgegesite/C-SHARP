@@ -9,7 +9,9 @@ namespace Encapsulation
     public class BankAccount
     {
         private decimal _balance;
+        //This is a class
 
+        //Deposit Cash
         public void Deposit(decimal amount)
         {
             if (amount > 0)
@@ -17,12 +19,16 @@ namespace Encapsulation
                 _balance += amount;
             }
         }
-
+        //Withdraw Cash
         public void Withdraw(decimal amount)
         {
             if (amount > 0 && amount <= _balance)
             {
                 _balance -= amount;
+            }
+            else
+            {
+                Console.WriteLine("Insufficient Ammount");
             }
         }
 
@@ -38,7 +44,7 @@ namespace Encapsulation
         {
             BankAccount account = new BankAccount();
             account.Deposit(1000);
-            account.Withdraw(500);
+            account.Withdraw(1500);
             decimal balance = account.GetBalance();
             Console.WriteLine("Account Balance: " + balance);
 
