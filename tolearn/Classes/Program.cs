@@ -8,11 +8,11 @@ namespace Classes
 {
     class Program
     {
-         // Access Modfiers
-         // - default or private
-         // - public
-         // - internal
-         // - protected
+        // Access Modfiers
+        // - default or private
+        // - public
+        // - internal
+        // - protected
 
         //Static Methods, Variables & Classes
 
@@ -21,6 +21,8 @@ namespace Classes
             Console.WriteLine(Arithmetic.Subtraction(5, 2));
             Console.WriteLine(Arithmetic.Addition(1, 2));
             Console.WriteLine(Constants.PI);
+
+            //Readline is always implemented in  .net 4.7.2
             Console.ReadKey();
         }
     }
