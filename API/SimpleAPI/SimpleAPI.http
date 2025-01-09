@@ -1,0 +1,20 @@
+﻿@SimpleAPI_HostAddress = https://localhost:7025
+
+POST {{SimpleAPI_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "isComplete":true
+}
+
+###
+
+GET {{SimpleAPI_HostAddress}}/todoitems
+
+###
+
+@id=0
+GET {{SimpleAPI_HostAddress}}/todoitems/2
+
+###
