@@ -1,20 +1,43 @@
 ﻿@SimpleAPI_HostAddress = https://localhost:7025
 
+// Register Item
 POST {{SimpleAPI_HostAddress}}/todoitems
 Content-Type: application/json
 
 {
-  "name":"walk dog",
+  "name":"feed the cat",
+  "isComplete":false
+}
+
+###
+
+// Get Items
+GET {{SimpleAPI_HostAddress}}/todoitems
+
+###
+
+// Get Item by Id
+GET {{SimpleAPI_HostAddress}}/todoitems/2
+
+###
+
+// Update Item by Id
+PUT {{SimpleAPI_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+   "name":"wash the dishes",
   "isComplete":true
 }
 
 ###
 
-GET {{SimpleAPI_HostAddress}}/todoitems
+// Delete Item
+DELETE {{SimpleAPI_HostAddress}}/todoitems/4
 
 ###
 
-@id=0
-GET {{SimpleAPI_HostAddress}}/todoitems/2
+// Get Completed (true) Items
+GET {{SimpleAPI_HostAddress}}/todoitems/complete
 
 ###
